@@ -51,6 +51,19 @@ table {
 /* Page Style Starts HERE */
 
 h1 {
-    text-align: center;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 30px;
 }
 
+p {
+	font-weight: 700;
+}
+
+form {
+	margin: 10px 120px 50px 120px;
+}
+
+.list-group {
+	margin: 10px 120px;
+}
